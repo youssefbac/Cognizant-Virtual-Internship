@@ -3,7 +3,7 @@ Artificial Intelligence virtual internship program by Cognizant through Forage!
 ![image](https://github.com/youssefbac/Cognizant-Virtual-Internship/assets/49171662/1bb32cea-6fce-4fce-b693-96a547d51f3a)
 
 
-TASK 1: EDA
+TASK 1: Data Analysis Exploration
 
 TASK 2: Understanding the Relational Data
 
@@ -15,5 +15,4 @@ TASK 5: Evaluating the production machine learning model to ensure quality resul
 
 Program link: https://www.theforage.com/simulations/cognizant/artificial-intelligence-rtbq?ref=zkMoe6v8peeWK9EHb
 
-Completion Certificate link: https://forage-uploads-prod.s3.amazonaws.com/completion
-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_jMQHFqiDBWuGN6JaQ_1705068556694_completion_certificate.pdf
+Completion Certificate link: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_jMQHFqiDBWuGN6JaQ_1705068556694_completion_certificate.pdf
